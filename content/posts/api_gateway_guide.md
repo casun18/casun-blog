@@ -2,7 +2,7 @@
 title: "Api_gateway_guide"
 subtitle: ""
 date: 2022-02-04T02:22:52+08:00
-draft: true
+draft: false
 author: "casun"
 authorLink: ""
 description: ""
@@ -39,6 +39,8 @@ seo:
 记录项目的重难点
 <!--more-->
 # 项目概览
+
+![/img/jiagoutu.png]()
 
 ## 什么是Api网关
 ### 1、微服务的组织结构
