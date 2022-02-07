@@ -40,7 +40,7 @@ seo:
 <!--more-->
 # 项目概览
 
-![/img/jiagoutu.png]()
+![jiagoutu](https://cdn.jsdelivr.net/gh/casun18/images//img-120220207233801.png)
 
 ## 什么是Api网关
 ### 1、微服务的组织结构
