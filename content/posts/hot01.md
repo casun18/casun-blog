@@ -6,13 +6,13 @@ draft: true
 author: "casun"
 authorLink: ""
 description: ""
-keywords: "easy,数组"
+keywords: "easy","数组"
 license: ""
 comment: false
 weight: 0
 
 tags:
-- HOT100,数组
+- [HOT100,数组]
 categories:
 - draft
 
