@@ -11,10 +11,8 @@ license: ""
 comment: false
 weight: 0
 
-tags:
-- ["HOT100","数组"]
-categories:
-- draft
+tags: ["Easy","数组"]
+categories: ["HOT100"]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
