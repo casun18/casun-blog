@@ -1,8 +1,8 @@
 ---
 title: "Hot02"
-subtitle: ""
+subtitle: "2、两数相加"
 date: 2022-07-25T18:16:29+08:00
-draft: true
+draft: false
 author: ""
 authorLink: ""
 description: ""
@@ -11,10 +11,9 @@ license: ""
 comment: false
 weight: 0
 
-tags:
-- draft
+tags:["Mid","链表"]
 categories:
-- draft
+- Hot100
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -36,7 +35,6 @@ seo:
 
 # See details front matter: /theme-documentation-content/#front-matter
 ---
-### 2、两数相加
 <!--more-->
 # 1、题目
 [2.两数相加](https://leetcode.cn/problems/add-two-numbers/)
@@ -47,3 +45,10 @@ seo:
 
 你可以假设除了数字 0 之外，这两个数都不会以 0 开头。
 ![](/img/jiagoutu.png)
+![](/1.JPG)
+![](/2.JPG)
+![](/3.JPG)
+![](/4.JPG)
+![](/5.JPG)
+![](/6.JPG)
+![](/7.JPG)
