@@ -45,10 +45,10 @@ seo:
 
 你可以假设除了数字 0 之外，这两个数都不会以 0 开头。
 ![](/img/jiagoutu.png)
-![](/1.JPG)
-![](/2.JPG)
-![](/3.JPG)
-![](/4.JPG)
-![](/5.JPG)
-![](/6.JPG)
-![](/7.JPG)
+![](/img/1.JPG)
+![](/img/2.JPG)
+![](/img/3.JPG)
+![](/img/4.JPG)
+![](/img/5.JPG)
+![](/img/6.JPG)
+![](/img/7.JPG)
