@@ -11,7 +11,7 @@ license: ""
 comment: false
 weight: 0
 
-tags:["Mid","链表"]
+tags: ["Mid","链表"]
 categories:
 - Hot100
 
