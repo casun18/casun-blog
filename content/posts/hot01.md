@@ -35,7 +35,7 @@ seo:
 # See details front matter: /theme-documentation-content/#front-matter
 ---
 
-#### 1. 两数之和
+### 1. 两数之和
 
 <!--more-->
 
