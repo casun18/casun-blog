@@ -1,5 +1,5 @@
 ---
-title: "Hot02"
+title: "Hot02 两数相加"
 subtitle: "2、两数相加"
 date: 2022-07-25T18:16:29+08:00
 author: "casun"
@@ -19,13 +19,12 @@ toc:
 math:
   enable: false
 lightgallery: false
-seo:
-  images: []
-
 # See details front matter: /theme-documentation-content/#front-matter
 ---
 ## 2、两数相加
+
 <!--more-->
+
 # 1、题目
 [2.两数相加](https://leetcode.cn/problems/add-two-numbers/)
 

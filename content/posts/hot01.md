@@ -1,5 +1,5 @@
 ---
-title: "Hot01"
+title: "Hot01 两数之和"
 subtitle: ""
 date: 2022-07-25T18:16:09+08:00
 draft: true
@@ -18,11 +18,6 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 summary: ""
-resources:
-- name: featured-image
-  src: featured-image.jpg
-- name: featured-image-preview
-  src: featured-image-preview.jpg
 
 toc:
   enable: true
